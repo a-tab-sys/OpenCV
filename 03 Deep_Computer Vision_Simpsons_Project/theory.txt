@@ -1,0 +1,7 @@
+Very few things can beat a deep learning model
+
+
+OpenCV is often used for preprocessing data (performing image normalization, mean subtraction, etc...)
+
+
+We will use a deep learning model to classify between the simpson characters. We will use OpenCV to read in an image a resize it to a particular size before feeding it to our network.
